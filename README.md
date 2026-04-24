@@ -1,36 +1,38 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--            AARTI PAWAR — GitHub Profile README            -->
+<!--           AARTI PAWAR — GitHub Profile README             -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
+<!-- HEADER — clean dark banner, no overly flashy gradient -->
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=160&text=Aarti%20Pawar&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Full-Stack%20Developer%20%20%7C%20%20Data%20Visualization%20%20%7C%20%20Problem%20Solver&descSize=15&descColor=8b949e&descAlignY=68&stroke=6a11cb&strokeWidth=2" />
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Hi%20there%2C%20I'm%20Aarti!%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Data%20Viz%20Enthusiast%20%7C%20Problem%20Solver&descSize=16&descAlignY=68&descColor=d0c8ff" />
-
+<!-- TYPING LINE -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3500&pause=1000&color=6a11cb&center=true&vCenter=true&width=680&lines=Building+full-stack+web+applications+with+passion+%F0%9F%9A%80;Turning+data+into+meaningful+visual+stories+%F0%9F%93%8A;Java+%7C+Python+%7C+JavaScript+%7C+React+%7C+Node.js;Always+learning%2C+always+growing+%F0%9F%8C%B1" />
 </div>
 
 <br/>
 
+<!-- SOCIAL LINKS -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=800&color=6a11cb&center=true&vCenter=true&width=650&lines=const+dev+%3D+new+FullStackDeveloper(%22Aarti+Pawar%22)%3B;dev.stack+%3D+%5B%22Java%22%2C+%22Python%22%2C+%22React%22%2C+%22Node.js%22%5D%3B;dev.passion+%3D+%22turning+data+into+beautiful+insights%22%3B;dev.status+%3D+%22%F0%9F%9F%A2+open+to+opportunities%22%3B" />
-</div>
-
-<br/>
-
-<!-- ─── SOCIAL BADGES ─────────────────────────────────────────── -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/aarti-pawar24/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aarti%20Pawar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aarti-pawar24/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5" height="28"/>
   </a>
   &nbsp;
   <a href="mailto:pawaraarti2023@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-pawaraarti2023-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335" height="28"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/Aarti_118/">
-    <img src="https://img.shields.io/badge/LeetCode-Aarti__118-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/Aarti_118/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116" height="28"/>
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=aarti041205&style=for-the-badge&color=6a11cb&label=PROFILE+VIEWS" />
+  <a href="https://github.com/aarti041205" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat-square&logo=github&logoColor=white&labelColor=181717" height="28"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=aarti041205&style=flat-square&color=6a11cb&label=Profile+Views" height="28"/>
 </div>
 
 <br/>
@@ -39,49 +41,30 @@
 
 <br/>
 
-<!-- ─── ABOUT ME ───────────────────────────────────────────────── -->
+<!-- ─── ABOUT ME ─────────────────────────────────────────────── -->
 
-<table align="center" border="0" cellpadding="0" cellspacing="20">
-<tr>
-<td width="54%" valign="top">
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996ad442eb67.gif" width="300" />
 
-### 👩‍💻 &nbsp; About Me
+### 👩‍💻 About Me
 
-```typescript
-interface Developer {
-  name      : string;
-  role      : string;
-  stack     : string[];
-  databases : string[];
-  dataViz   : string[];
-  tools     : string[];
-  goal      : string;
-  status    : string;
-}
+```yaml
+Name     : Aarti Pawar
+Role     : Full-Stack Developer
+Location : India 🇮🇳
+Status   : Open to Opportunities 🟢
 
-const aarti: Developer = {
-  name      : "Aarti Pawar",
-  role      : "Full Stack Developer",
-  stack     : ["Java", "Python", "JavaScript",
-               "React.js", "Node.js"],
-  databases : ["MySQL", "MongoDB",
-               "Firebase Firestore"],
-  dataViz   : ["Tableau","Power BI","Excel"],
-  tools     : ["VS Code","Eclipse","Jupyter",
-               "LaTeX","Git"],
-  goal      : "Build elegant, impactful software 🎯",
-  status    : "🟢 Open to opportunities"
-}
+Languages : Java | Python | JavaScript
+Frontend  : React.js | HTML5 | CSS3
+Backend   : Node.js
+Databases : MySQL | MongoDB | Firebase Firestore
+DataViz   : Tableau | Power BI | Excel
+Tools     : VS Code | Eclipse | Jupyter | LaTeX
+
+Goal : Build elegant, impactful software
+       that makes a real difference 🎯
 ```
 
-</td>
-<td width="46%" align="center" valign="middle">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996ad442eb67.gif" width="340" alt="girl coding gif" />
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 <br/>
 
@@ -91,45 +74,40 @@ const aarti: Developer = {
 
 <!-- ─── TECH STACK ─────────────────────────────────────────────── -->
 
-<h2 align="center">🛠️ &nbsp; Tech Stack &amp; Tools</h2>
+## 🛠️ Tech Stack
 
-<br/>
+**Languages**
 
-<div align="center">
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚡ Languages
+**Frontend & Backend**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css&theme=dark" />
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br/><br/>
+**Databases**
 
-### 🎨 Frontend & Backend
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021.svg?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark" />
+**Developer Tools**
 
-<br/><br/>
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🗄️ Databases
+**Data Visualization**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
-
-<br/><br/>
-
-### 🧰 Developer Tools
-
-<img src="https://skillicons.dev/icons?i=vscode,eclipse,jupyter,latex,git,github&theme=dark" />
-
-<br/><br/>
-
-### 📊 Data Visualization
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-</div>
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 <br/>
 
@@ -139,34 +117,17 @@ const aarti: Developer = {
 
 <!-- ─── GITHUB STATS ───────────────────────────────────────────── -->
 
-<h2 align="center">📈 &nbsp; GitHub Stats</h2>
-
-<br/>
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=aarti041205&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6a11cb&icon_color=2575fc&text_color=c9d1d9&ring_color=6a11cb&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aarti041205&show_icons=true&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=6a11cb&icon_color=6a11cb&text_color=8b949e&count_private=true" />
 &nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti041205&layout=compact&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=6a11cb&text_color=c9d1d9&langs_count=6" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarti041205&layout=compact&hide_border=true&theme=github_dark&bg_color=0d1117&title_color=6a11cb&text_color=8b949e&langs_count=6" />
 
 <br/><br/>
 
-<img width="60%" src="https://streak-stats.demolab.com/?user=aarti041205&hide_border=true&background=0d1117&stroke=6a11cb&ring=6a11cb&fire=2575fc&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=6a11cb&sideLabels=c9d1d9&dates=555555" />
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ─── QUOTE ──────────────────────────────────────────────────── -->
-
-<div align="center">
-
-> **"First, solve the problem. Then, write the code."**
-> &nbsp;— John Johnson
+<img width="55%" src="https://streak-stats.demolab.com/?user=aarti041205&hide_border=true&background=0d1117&stroke=21262d&ring=6a11cb&fire=6a11cb&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=6a11cb&sideLabels=8b949e&dates=555555" />
 
 </div>
 
@@ -178,31 +139,28 @@ const aarti: Developer = {
 
 <!-- ─── CONNECT ────────────────────────────────────────────────── -->
 
-<h2 align="center">🤝 &nbsp; Let's Connect & Collaborate</h2>
+## 🤝 Let's Connect
 
-<br/>
+> I'm always open to interesting conversations, collaborations, and new opportunities.
+> Feel free to reach out!
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" />
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/aarti-pawar24/">
-  <img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:pawaraarti2023@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20a-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Aarti_118/">
-  <img src="https://img.shields.io/badge/Solve%20on-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Solve%20on%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=6A11CB&center=true&vCenter=true&width=540&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Always+open+to+collaborating+on+cool+projects+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&color=6A11CB&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Let%27s+build+something+great+together+%F0%9F%9A%80" />
 
 </div>
 
@@ -210,8 +168,12 @@ const aarti: Developer = {
 
 <!-- ─── FOOTER ─────────────────────────────────────────────────── -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=3&stroke=6a11cb&strokeWidth=2" />
+</div>
+
+<br/>
 
 <div align="center">
-  <sub>✨ crafted with passion &amp; precision — <a href="https://github.com/aarti041205">@aarti041205</a></sub>
+  <sub>Crafted with focus &amp; care &nbsp;·&nbsp; <a href="https://github.com/aarti041205">@aarti041205</a></sub>
 </div>
